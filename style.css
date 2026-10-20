@@ -1,7 +1,10 @@
 alert("hello!");
 h1{
-    color: black;
+    color: red;
 }
 body{
     background-color: aqua;
+}
+h2{
+    color: blueviolet;
 }
