@@ -2,3 +2,6 @@ alert("hello!");
 h1{
     color: black;
 }
+body{
+    background-color: aqua;
+}
